@@ -1,0 +1,9 @@
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body { font-family: 'Source Sans 3', sans-serif; color: #2C2C2C; background: #FBF8F4; -webkit-font-smoothing: antialiased; overflow-x: hidden; }
+h1, h2, h3, h4 { font-family: 'Lora', serif; font-weight: 400; line-height: 1.15; }
+a { text-decoration: none; color: inherit; }
+img { max-width: 100%; display: block; }
+::selection { background: #C75B39; color: white; }
+::-webkit-scrollbar { width: 5px; }
+::-webkit-scrollbar-thumb { background: #C75B39; border-radius: 3px; }
